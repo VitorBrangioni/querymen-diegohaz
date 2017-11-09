@@ -1,7 +1,7 @@
 {
-  "name": "querymen",
+  "name": "querymen_vitorbrangioni_test",
   "version": "2.1.3",
-  "description": "Querystring parser middleware for MongoDB, Express and Nodejs",
+  "description": "Querystring parser middleware for MongoDB, Express and Nodejs. Code for test pull-request",
   "main": "dist/index.js",
   "files": [
     "bin/",
